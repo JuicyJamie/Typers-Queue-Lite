@@ -1,0 +1,37 @@
+{
+    "test1": {
+        "testID": 1,
+        "testText": "You've always been there for me Lee, always had my back when it mattered. What kind of friend would I be if I wasn't there for you now? You and Clementine are the only family I got left, I'm with you to the end.",
+        "testTitle": "Kenny's resolve"
+    },
+
+    "test2": {
+        "testID": 2,
+        "testText": "Pirates are evil? The Marines are righteous? These terms have always changed throughout the course of history! Kids who have never seen peace and kids who have never seen war have different values! Those who stand at the top determine what's wrong and what's right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!",
+        "testTitle": "Doflamingo's truth"
+    },
+
+    "test3": {
+        "testID": 3,
+        "testText": "Just because you have psychic powers doesn't make you any less human. It's the same as people who are fast, people who are book smart, and people with strong body odor. Psychic powers are just another characteristic. The truth behind one's charm is kindness. Become a good person. That's all.",
+        "testTitle": "Reigen's words to Mob"
+    },
+
+    "test4": {
+        "testID": 4,
+        "testText": "I'm pretty sure I'm a normal human being. Especially when it comes to my build and abilities. When I was a kid, I was convinced that I was a prodigy. I might've thought that until I was in junior high. Actually I'm still sorta convinced that I am. But I'm probably never going to be 180 cm tall. I'm confident in my athletic skills, but right now, I'm not the best at anything on our team. But that's not enough of a reason to quit, nor is it an excuse.",
+        "testTitle": "Even an average person can be great"
+    },
+
+    "test5": {
+        "testID": 5,
+        "testText": "I remember the day after my son died. The entire underground was devoid of hope. The future had once again been taken from us by the humans. In a fit of anger, I declared war. I said that I would destroy any human that came here. I would use their souls to become godlike... and free us from this terrible prison. Then, I would destroy humanity... And let monsters rule the surface, in peace. Soon, the people's hopes returned. My wife, however, became disgusted with my actions. She left this place, never to be seen again.",
+        "testTitle": "The price of power"
+    },
+
+    "test6": {
+        "testID": 6,
+        "testText": "This test is 6 words long.",
+        "testTitle": "testing"
+    }
+}
